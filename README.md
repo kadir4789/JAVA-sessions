@@ -1,2 +1,2 @@
-# JAVA-sessions
-Contains only Java CODES
+# BootCamp
+Bootcamp materials and lectures
