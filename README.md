@@ -1,2 +1,4 @@
 # BootCamp
-Bootcamp materials and lectures
+Bootcamp materials
+
+Recent session was Java
